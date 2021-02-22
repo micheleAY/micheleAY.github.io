@@ -12,6 +12,7 @@ body {
   font: 14px/22px 'Montserrat', sans-serif;;
   -webkit-font-smoothing: antialiased;
   background: #eee!important;
+  position: relative;
 }
 
 h1,
