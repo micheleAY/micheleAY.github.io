@@ -7,7 +7,7 @@ body {
     font-weight: 300;
     line-height: 25px;
     color: #3b4045;
-    font:14px/22px 'Montserrat', sans-serif;
+    font:14px/22px 'Source Sans Pro', sans-serif, Helvetica, Arial, sans-serif;
       -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -91,7 +91,7 @@ a:active {
       line-height: 40px;
     }
     p {
-      font-family: 'Montserrat', sans-serif!important;
+      font-family: 'Droid Serif', serif;
       font-size: 15px;
       line-height: 24px;
       font-weight: 300;
@@ -100,7 +100,7 @@ a:active {
 
 
 
-.btn {
+.btn {    
     border-radius: 0;
 }
 
@@ -276,7 +276,7 @@ a:active {
   h1 {
     color: #fff;
     font-size: 60px;
-    text-transform: none;
+    text-transform: uppercase;
     font-weight: bold;
     padding-bottom: 19px;
     margin-top: 30px;
@@ -350,7 +350,7 @@ a:active {
     }
     .collapse.in {
       ul {
-
+        
       }
     }
 }
@@ -368,7 +368,7 @@ a:active {
 
 
 .menu {
-
+  
     li {
       a {
         color: #fff;
@@ -427,7 +427,7 @@ a:active {
       font-family: 'Droid Serif', serif;
     }
   }
-
+  
   .about-slider {
     img {
       width: 100%;
@@ -487,7 +487,7 @@ a:active {
         height:50px;
         border-radius:0;
         border:none;
-        box-shadow:none;
+        box-shadow:none; 
         background: #1bafb4;
         padding:0px 35px;
         color:#fff;
@@ -536,7 +536,7 @@ a:active {
 
 .input-field label {
     color: rgba(237, 28, 36, 0.7);
-}
+} 
 .form-group .input-field + .input-field {
     margin-top: 10px;
 }
